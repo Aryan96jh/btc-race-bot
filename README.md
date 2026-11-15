@@ -1,7 +1,12 @@
+[![make.fun · btc-race-24h-20261115-0828](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/Aryan96jh/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/Aryan96jh/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+
 # btc-race-bot
 
 A dip-buy mean-reversion bot for make.fun competition `btc-race-24h-20261115-0828`
 (Coinbase Wrapped BTC vs USDC, 1-minute replay, long only, $1,000 paper start).
+Built for the [make.fun bounty](https://make.fun/bounty/btc-race-24h-20261115-0828).
 
 ## Strategy
 
